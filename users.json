@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "6722",
+      "name": "Gohar",
+      "surname": "Asatryan ",
+      "salary": 950000
+    },
+    {
+      "id": "669b",
+      "name": "Alvard",
+      "surname": "Avagyan ",
+      "salary": 550000
+    },
+    {
+      "id": "cfc2",
+      "name": "Manan ",
+      "surname": "Tovmasyan",
+      "salary": 850000
+    },
+    {
+      "id": "5bf2",
+      "name": "Ashot",
+      "surname": "Grigoryan",
+      "salary": "450000"
+    },
+    {
+      "id": "09ad",
+      "name": "Narek",
+      "surname": "Galstyan",
+      "salary": 830000
+    },
+    {
+      "id": "e0b4",
+      "name": "Ofelya",
+      "surname": "Karapetyan",
+      "salary": "950000"
+    },
+    {
+      "id": "1e1f",
+      "salary": 550000,
+      "surname": "Sargsyan",
+      "name": "Aram"
+    }
+  ]
+}
